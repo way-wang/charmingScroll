@@ -13,9 +13,9 @@ charmingScroll是一款小型的jQuery滑动条插件
 <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
 <script type="text/javascript" src="public/js/jquery.charmingScroll.js"></script>
 ```
-*在页面加载时调用插件即可 
+* 在页面加载时调用插件即可 
 ```javascript
 <script type="text/javascript">
-		$(".list-wrap,.content").charmingScroll();		
-	</script>
+	$(".list-wrap,.content").charmingScroll();		
+</script>
 ```
