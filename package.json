@@ -1,0 +1,28 @@
+{
+  "name": "scroll",
+  "version": "1.0.0",
+  "description": "charmingScroll是一款小型的jquery滑动条插件\r * 插件是基于jquery的，需先引入jquery，再进入charmingScroll文件\r ```javascript\r <script type=\"text/javascript\" src=\"bower_components/jquery/dist/jquery.min.js\"></script>\r <script type=\"text/javascript\" src=\"public/js/jquery.charmingScroll.js\"></script>\r ```",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/way-wang/charmingScroll.git"
+  },
+  "keywords": [
+    "scroll"
+  ],
+  "author": "way",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/way-wang/charmingScroll/issues"
+  },
+  "homepage": "https://github.com/way-wang/charmingScroll#readme",
+  "devDependencies": {
+    "webpack": "^3.3.0"
+  }
+}
